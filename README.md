@@ -2,4 +2,4 @@
 
 //To run it do a npm install. Use a@a.com, 123456 for the dashboard
 
-//Please get and upload your own key configuration from firebase and edit them at 
+//Please get and upload your own key configuration from firebase and edit them at firebaseconfig.js before running them
